@@ -1,0 +1,11 @@
+{
+  "name": "bear-themes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Yago/bear-themes.git",
+  "author": "Yann Gouffon <github@yago-art.ch>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "sudo cp -r ./Georgia.theme /Applications/Bear.app/Contents/Resources/"
+  }
+}
