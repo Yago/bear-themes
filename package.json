@@ -6,6 +6,6 @@
   "author": "Yann Gouffon <github@yago-art.ch>",
   "license": "MIT",
   "scripts": {
-    "deploy": "sudo cp -r ./Georgia.theme /Applications/Bear.app/Contents/Resources/"
+    "deploy": "sudo cp -r ./themes/* /Applications/Bear.app/Contents/Resources/"
   }
 }
