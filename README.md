@@ -8,6 +8,9 @@ Based on the fonts/colors themes located on `/Applications/Bear.app/Contents/Res
 
 For icons, you can update the `AppIcon.icns` and the `Assets.car` (using [ThemeEngine](https://github.com/alexzielenski/ThemeEngine))
 
+### Notes
+- PDF Export is a mix of `Avenir Next Font Theme` and `Print Text Theme`
+
 ## Deploy
 
 Simply execute the following command (custom alias recommended) and voilà :
